@@ -1,6 +1,7 @@
-# Curso FronEnd Caelum 
+# Python: escreva seus primeiros códigos
 
-Repositório de códigos para acompanhamento da leitura de texto da Caelum - Curso de FrontEnd. Na verdade, a Caelum mudou e agora é [Alura](https://www.alura.com.br/). O curso aborda HTML, CSS
-e JavaScript e diversas tecnologias relacionadas a criação de páginas dinâmicas e interativas.
+Repositório de códigos para acompanhamento da leitura do livro [Python: escreva
+seus primeiros programas](https://www.casadocodigo.com.br/products/livro-python-3)
+do autor Felipe Cruz
 
 Obs.: Links de [arquivos para o curso](https://github.com/CaelumAulas/web7885?tab=readme-ov-file)
